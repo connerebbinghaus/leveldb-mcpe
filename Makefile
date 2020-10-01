@@ -38,7 +38,6 @@ TESTS = \
 	issues/issue178_test \
 	issues/issue200_test \
 	table/filter_block_test \
-	table/table_test \
 	util/arena_test \
 	util/bloom_test \
 	util/cache_test \
